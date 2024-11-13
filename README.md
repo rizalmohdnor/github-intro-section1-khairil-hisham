@@ -1,3 +1,5 @@
+NAME: AHMAD KHAIRIL AMIN BIN HISHAMUDDIN
+MATRIC NO: 2212947
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
